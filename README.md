@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryoha000)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryoha000&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![ryoha000's github stats](https://github-readme-stats.vercel.app/api?username=ryoha000&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryoha000&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
