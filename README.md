@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryoha000&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![ryoha000's github stats](https://github-readme-stats.vercel.app/api?username=ryoha000&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryoha000&langs_count=10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<div>
+  <img src="https://github.com/ryoha000/ryoha000/blob/main/metrics1.svg" width="48%" />
+  <img src="https://github.com/ryoha000/ryoha000/blob/main/metrics2.svg" width="48%" />
+</div>
 
 <!--
 **ryoha000/ryoha000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
