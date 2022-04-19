@@ -45,7 +45,7 @@ jobs:
           plugin_notable_indepth: yes
           plugin_rss: yes
           plugin_rss_limit: 4
-          plugin_rss_source: https://trap.jp/author/sappi_red/rss/
+          plugin_rss_source: https://trap.jp/author/ryoha/rss/
           repositories_skipped: piscon2019,piscon2019-2,go-traq
           use_prebuilt_image: yes
 
